@@ -1,0 +1,6 @@
+framework module Pods_I_want_5000_trillion_yenUITests {
+  umbrella header "Pods-I_want_5000_trillion_yenUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
