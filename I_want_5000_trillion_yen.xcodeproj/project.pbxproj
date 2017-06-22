@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		24DE6601B5FD2AF4FE4F102A /* Pods_I_want_5000_trillion_yenTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B4C317D0575D94D6E8B809CD /* Pods_I_want_5000_trillion_yenTests.framework */; };
+		885D5DFD1EFC188B009EFC48 /* pdca01_13.png in Resources */ = {isa = PBXBuildFile; fileRef = 885D5DFC1EFC188B009EFC48 /* pdca01_13.png */; };
 		88A2CC2F1EF7E9FB007E33C2 /* CvIVkRLVUAAXdGt.png in Resources */ = {isa = PBXBuildFile; fileRef = 88A2CC2E1EF7E9FB007E33C2 /* CvIVkRLVUAAXdGt.png */; };
 		88A2CC351EF93133007E33C2 /* TwitterCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88A2CC311EF93133007E33C2 /* TwitterCore.framework */; };
 		88A2CC361EF93133007E33C2 /* TwitterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 88A2CC321EF93133007E33C2 /* TwitterKit.framework */; };
@@ -46,6 +47,7 @@
 		1176F290BC7C28C93BEA428E /* Pods-I_want_5000_trillion_yenUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-I_want_5000_trillion_yenUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-I_want_5000_trillion_yenUITests/Pods-I_want_5000_trillion_yenUITests.release.xcconfig"; sourceTree = "<group>"; };
 		7044F78752DA53E847F1E046 /* Pods-I_want_5000_trillion_yen.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-I_want_5000_trillion_yen.debug.xcconfig"; path = "Pods/Target Support Files/Pods-I_want_5000_trillion_yen/Pods-I_want_5000_trillion_yen.debug.xcconfig"; sourceTree = "<group>"; };
 		7630E5053E013147E9DC8EB3 /* Pods-I_want_5000_trillion_yenTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-I_want_5000_trillion_yenTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-I_want_5000_trillion_yenTests/Pods-I_want_5000_trillion_yenTests.debug.xcconfig"; sourceTree = "<group>"; };
+		885D5DFC1EFC188B009EFC48 /* pdca01_13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pdca01_13.png; sourceTree = "<group>"; };
 		88A2CC2E1EF7E9FB007E33C2 /* CvIVkRLVUAAXdGt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = CvIVkRLVUAAXdGt.png; path = ../../../../Downloads/CvIVkRLVUAAXdGt.png; sourceTree = "<group>"; };
 		88A2CC301EF910DF007E33C2 /* load.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = load.h; sourceTree = "<group>"; };
 		88A2CC311EF93133007E33C2 /* TwitterCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterCore.framework; sourceTree = "<group>"; };
@@ -149,6 +151,7 @@
 				88A740931EF7E52400C91D0B /* ViewController.swift */,
 				88A740951EF7E52400C91D0B /* Main.storyboard */,
 				88A2CC2E1EF7E9FB007E33C2 /* CvIVkRLVUAAXdGt.png */,
+				885D5DFC1EFC188B009EFC48 /* pdca01_13.png */,
 				88A740981EF7E52400C91D0B /* Assets.xcassets */,
 				88A7409A1EF7E52400C91D0B /* LaunchScreen.storyboard */,
 				88A7409D1EF7E52400C91D0B /* Info.plist */,
@@ -312,6 +315,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				88A7409C1EF7E52400C91D0B /* LaunchScreen.storyboard in Resources */,
+				885D5DFD1EFC188B009EFC48 /* pdca01_13.png in Resources */,
 				88A740991EF7E52400C91D0B /* Assets.xcassets in Resources */,
 				88A740971EF7E52400C91D0B /* Main.storyboard in Resources */,
 				88A2CC2F1EF7E9FB007E33C2 /* CvIVkRLVUAAXdGt.png in Resources */,

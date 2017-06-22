@@ -24,9 +24,18 @@ class ViewController: UIViewController {
         
     }
     @IBAction func seg1Changed(_ sender: Any) {
-        
+        switch (sender as AnyObject).selectedSegmentIndex {
+        case 0:
+            image=UIImage(named:"CvIVkRLVUAAXdGt")!
+            imageView.image=image
+            
+        case 1:
+            image=UIImage(named:"pdca01_13")!
+            imageView.image=image
+        default:
+            break
+        }
     }
-   
     @IBAction func touchDown(_ sender: Any) {
         label1.text="aaaaa"
         UIView.animate(withDuration: 0.25, animations: {self.imageView.transform=self.imageView.transform.rotated(by: CGFloat.pi);
